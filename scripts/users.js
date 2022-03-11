@@ -1,25 +1,30 @@
-const formulario = document.getElementById('formulario')
-const btnCrearUsuario = document.getElementById('btncrear')
 
+
+const formulario = document.getElementById('form-registrarse')
+// const btnCrearUsuario = document.getElementById('btncrear')
+
+window.addEventListener('DOMContentLoaded', ()=>{
+ 
+})
 
 formulario.addEventListener('submit', async (e) => {
     e.preventDefault()
 
     let foto = document.getElementById('foto').value
-    let name = document.getElementById('name').value
+    let nombre = document.getElementById('name').value
     let email = document.getElementById('email').value
-    let description = document.getElementById('description').value
+    let descripcion = document.getElementById('description').value
 
-    let resp = await fetch (url, {
+    let resp = await fetch ('http://localhost:4000/users', {
         method: 'POST',
         body: JSON.stringify({
-            foto: url,
-            name : name,
+            url: foto,
+            name : nombre,
             email: email,
-            description:description
+            description:descripcion
         }),
         headers: {
-            "Content-Type" : "aplication/json; charset=UTF-8"
+            "Content-Type" : "application/json; charset=UTF-8"
         }
     })
     let data = resp.json()
