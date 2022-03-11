@@ -1,5 +1,6 @@
 const formulario = document.getElementById('formulario')
-const btnCrearUsuario = document.getElementById('btncrear')
+const btnCrearUsuario = document.getElementById('btnCrear')
+const btnColecciones = document.getElementById('btnColecciones')
 
 
 formulario.addEventListener('submit', async (e) => {
