@@ -1,0 +1,88 @@
+{
+    "products": [{
+            "name": "Sudadera",
+            "description": "Sudadera sin capucha con estampado juvenil",
+            "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032479/producst-sport/Rectangle_1_sm8euh.png",
+            "categoria": "Caballero",
+            "price": "COP 97,562.96 - 156,100.74",
+            "tallas": " xl,l,m,s",
+            "id": 1
+        },
+        {
+            "name": "Sudadera",
+            "description": "Sudadera sin capucha  con estampado juvenil",
+            "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032527/producst-sport/card_a1sudadera-juve-cab.png",
+            "categoria": "Caballero",
+            "price": "COP 97,562.96 - 156,100.74",
+            "tallas": " xl,l,m,s",
+            "id": 2
+        },
+        {
+            "name": "Sudadera",
+            "description": "Sudadera sin capucha blanca con estampado juvenil",
+            "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032457/producst-sport/Rectangle_4_2_fl6l1v.png",
+            "categoria": "Caballero",
+            "price": "COP 97,562.96 - 156,100.74",
+            "tallas": " xl,l,m,s",
+            "id": 3
+        },
+        {
+            "name": "Sudadera",
+            "description": "Sudadera con capucha de tamaño REAL para mujer, prenda con estampado de sublimación 3D, personalizada, Fresh Prince bel air, disponible en Tallas grandes",
+            "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032498/producst-sport/Frame_20_epxwoo.png",
+            "categoria": "Dama",
+            "price": "COP 97,562.96 - 156,100.74",
+            "tallas": " xl,l,m,s",
+            "id": 4
+        },
+        {
+            "name": "Sudadera",
+            "description": "Sudadera con capucha de tamaño REAL para mujer, prenda con estampado de sublimación 3D, personalizada, Fresh Prince bel air, disponible en Tallas grandes.",
+            "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032512/producst-sport/Frame_17_z1owzf.png",
+            "Categoria": "Dama",
+            "tallas": "xl,l,m,s",
+            "price": "",
+            "id": 5
+        }, {
+            "name": "Sudadera",
+            "description": "Sudadera con capucha de tamaño REAL para hombre y mujer, prenda con estampado de sublimación 3D, personalizada, Fresh Prince bel air, disponible en Tallas grandes",
+            "img": "",
+            "categoria": "Dama",
+            "precio": "COP 97,562.96 - 156,100.74",
+            "tallas": " xl,l,m,s",
+            "id": 6
+        }, {
+            "name": "Sudadera",
+            "description": "Sudadera sin capucha con estampado juvenil",
+            "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032470/producst-sport/Rectangle_3_1_qn73mr.png",
+            "categoria": "Niño",
+            "precio": "COP 97,562.96 - 156,100.74",
+            "tallas": "m,s",
+            "id": 7
+        }, {
+            "name": "Sudadera",
+            "description": "Sudadera sin capucha con estampado juvenil",
+            "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032527/producst-sport/card_a1sudadera-juve-cab.png",
+            "categoria": "Dama",
+            "precio": "COP 97,562.96 - 156,100.74",
+            "tallas": " xl,l,m,s",
+            "id": 8
+        }, {
+            "name": "Sudadera",
+            "description": "Sudadera sin capucha con estampado juvenil",
+            "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032527/producst-sport/card_a1sudadera-juve-cab.png",
+            "categoria": "Juvenil",
+            "precio": "COP 97,562.96 - 156,100.74",
+            "tallas": " xl,l,m,s",
+            "id": 9
+        }, {
+            "name": "Sudadera",
+            "description": "Sudadera sin capucha con estampado juvenil",
+            "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032527/producst-sport/card_a1sudadera-juve-cab.png",
+            "categoria": "Juvenil",
+            "precio": "COP 97,562.96 - 156,100.74",
+            "tallas": " xl,l,m,s",
+            "id": 10
+        }
+    ]
+}
