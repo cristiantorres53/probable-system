@@ -44,32 +44,37 @@
   margin-top: 55px;
 }
 
-.Tarjeta_modal_izquierda {
+.tarjeta_modal_izquierda {
   display: flex;
   align-items: center;
   gap: 1rem;
 }
-.Tarjeta_modal_imagen_izquierda {
+.tarjeta_modal_imagen_izquierda {
   height: 4rem;
   width: 4rem;
 }
-.Tarjeta_modal_imagen_izquierda img {
+.tarjeta_modal_imagen_izquierda img {
   display: block;
 }
+.tarjeta_modal__izquierda__texto {
+}
 
-.Tarjeta_modal_izquierda_titulo_texto {
+.tarjeta_modal_izquierda_titulo_texto {
   margin: 0;
   color: var(--primary);
   font: var(--textline3);
 }
-.Tarjeta_modal_izquierda__precio_texto {
+.tarjeta_modal_izquierda__precio_texto {
   margin: 0;
   color: var(--primary);
   font: var(--textline3);
   font-weight: 400;
 }
 
-.Tarjeta_modal_cantidad_derecha {
+.tarjeta_modal__derecha {
+}
+
+.tarjeta_modal_cantidad_derecha {
   margin: 0;
   color: var(--primary);
   text-align: center;
@@ -77,11 +82,14 @@
   font-weight: 400;
   border-bottom: 2px solid var(--primary);
 }
-.Tarjeta_modal_borrar_derecha {
+.tarjeta_modal_borrar_derecha {
   color: var(--primary);
   margin: 0;
   font: var(--textline3);
   font-weight: 400;
+}
+
+.modal_datos {
 }
 
 .modal_datos_precio {
