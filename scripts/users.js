@@ -10,7 +10,7 @@ window.addEventListener('DOMContentLoaded', ()=>{
 formulario.addEventListener('submit', async (e) => {
     e.preventDefault()
 
-    let foto = document.getElementById('foto').value
+    let foto = document.getElementById('formFile').value
     let nombre = document.getElementById('name').value
     let email = document.getElementById('email').value
     let descripcion = document.getElementById('description').value
