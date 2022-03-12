@@ -15,7 +15,7 @@ formulario.addEventListener('submit', async (e) => {
     let email = document.getElementById('email').value
     let descripcion = document.getElementById('description').value
 
-    let resp = await fetch ('http://localhost:4000/users', {
+    let resp = await fetch ('https://app-tiend.herokuapp.com/users', {
         method: 'POST',
         body: JSON.stringify({
             url: foto,
